@@ -2,7 +2,6 @@ import React, { useState } from "react";
 
 export default function App() {
   const [isToggle, setIsToggle] = useState(true);
-  console.log(isToggle);
 
   const toggleChange = ()=>{
     setIsToggle(!isToggle)
