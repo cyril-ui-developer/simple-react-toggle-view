@@ -29,8 +29,8 @@ export default function App() {
     <label>No </label>
     </div>
     {
-       isToggle ? (<h1> Yes items</h1>):
-       (<h1> No Items</h1>)
+       isToggle ? (<h1> Yes values</h1>):
+       (<h1> No values</h1>)
      }
     </>
   );
