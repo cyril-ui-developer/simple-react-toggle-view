@@ -19,18 +19,18 @@ export default function App() {
         checked={isToggle}
         onChange={toggleChange}
       />
-  <label>Yes </label>
+      <label>Yes </label>
       <input
         type="radio"
         value={false}
         name="toggle"
         onChange={toggleChange}
       />
-   Answered
+    <label>No </label>
     </div>
-     {
-       isToggle ? (<h1> Unanswered Questions</h1>):
-       (<h1> Answered Questions</h1>)
+    {
+       isToggle ? (<h1> Yes items</h1>):
+       (<h1> No Items</h1>)
      }
     </>
   );
