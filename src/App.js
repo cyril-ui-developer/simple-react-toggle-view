@@ -19,7 +19,7 @@ export default function App() {
         checked={isToggle}
         onChange={toggleChange}
       />
-  Unanswered
+  <label>Yes </label>
       <input
         type="radio"
         value={false}
