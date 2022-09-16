@@ -1,0 +1,44 @@
+{
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "textarea",
+        "fieldName": "firstName",
+        "placeholder": "Kelly",
+        "helpText": "Enter your first name",
+        "required": true
+      },
+      {
+        "label": "Middle Name",
+        "type": "text",
+        "fieldName": "middleName",
+        "placeholder": "Carl",
+        "helpText": "Enter your middle name",
+        "required": false
+      },
+      {
+        "label": "Lsst Name",
+        "type": "text",
+        "fieldName": "lastName",
+        "placeholder": "Poland",
+        "helpText": "Enter your lsst name",
+        "required": true
+      },
+      {
+        "label": "Job Title",
+        "type": "text",
+        "fieldName": "jobTitle",
+        "placeholder": "Software Engineer",
+        "helpText": "Enter your job title",
+        "required": true
+      },
+      {
+        "label": "Avatar",
+        "type": "text",
+        "fieldName": "avaterUrl",
+        "placeholder": "https://....",
+        "helpText": "Enter your avatar",
+        "required": false
+      }
+    ]
+}

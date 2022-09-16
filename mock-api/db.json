@@ -1,0 +1,109 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "fullName": {
+        "firstName": "Kate",
+        "middlename": "Lap",
+        "lastName": "Andrew"
+      },
+      "avatarUrl": "https://i.imgur.com/aq39RMA.jpg",
+      "contact": {
+        "email": "klap@employeeprolifes.test",
+        "tel": 11011199,
+        "mobile": 20190220101
+      },
+      "jobTitle": "software Engineer",
+      "department": "Software Engineering",
+      "projects": "Topping",
+      "teamName": "UI",
+      "hireDate": "01/12/2018",
+      "reportTo": "Don Victor",
+      "employeeType": "FT",
+      "socialMediaLinks": [
+        "http://github.com/benlap"
+      ],
+      "workLocation": "Cary, NC"
+    },
+    {
+      "id": "2",
+      "fullName": {
+        "firstName": "Jane",
+        "middlNname": "Pat",
+        "lastName": "Cliff"
+      },
+      "avatarUrl": "https://i.imgur.com/zQZSWrt.jpg",
+      "contact": {
+        "email": "jane.cliff@employeeprolifes.test",
+        "tel": 11011199,
+        "mobile": 20190220101
+      },
+      "jobTitle": "DevOps Engineer",
+      "department": "Software Engineering",
+      "projects": "Lagging",
+      "teamName": "API",
+      "hireDate": "01/09/2020",
+      "reportTo": "Doff Stone",
+      "employeeType": "PT",
+      "socialMediaLinks": [
+        "http://github.com/benlap"
+      ],
+      "workLocation": "Remote"
+    },
+    {
+      "id": "3",
+      "fullName": {
+        "firstName": "John",
+        "middleName": "Peter",
+        "lastName": "Jacob"
+      },
+      "avatarUrl": "https://i.imgur.com/tT8rjKC.jpg",
+      "contact": {
+        "email": "john.peter@employeeprolifes.test",
+        "tel": 11011199,
+        "mobile": 20190220101
+      },
+      "jobTitle": "Site Reliability Engineer",
+      "department": "Software Engineering",
+      "projects": "Topping",
+      "teamName": "UI",
+      "hireDate": "09/02/2017",
+      "reportTo": "Don Victor",
+      "employeeType": "PT",
+      "socialMediaLinks": [
+        "http://github.com/benlap"
+      ],
+      "workLocation": "New York, NY"
+    },
+    {
+      "id": "1625149712186",
+      "fullName": {
+        "firstName": "sas",
+        "middleName": "asdasd",
+        "lastName": "asas"
+      },
+      "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/react-upload-6bceb.appspot.com/o/images%2Fmypix.jpeg?alt=media&token=745af367-10f1-4a22-9d80-84643c553d28",
+      "jobTitle": "aaasas"
+    },
+    {
+      "id": "1625341919136",
+      "fullName": {
+        "firstName": "dsds",
+        "middleName": "dsd",
+        "lastName": "sdd"
+      },
+      "avatarUrl": "https://firebasestorage.googleapis.com/v0/b/react-upload-6bceb.appspot.com/o/images%2Fmyavatar.jpeg?alt=media&token=42377f5c-e55b-45b9-a549-5cdfd9309650",
+      "jobTitle": "dsds"
+    },
+    {
+      "id": "1663339007182",
+      "fullName": {
+        "firstName": "Cyril",
+        "middleName": "Omo",
+        "lastName": "Ajieh"
+      },
+      "avatarUrl": {},
+      "jobTitle": "SSE"
+    }
+  ]
+}
